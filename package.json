@@ -1,0 +1,23 @@
+{
+  "name": "electrode-auto-ssr",
+  "version": "1.0.0",
+  "description": "Detect server load and response times to detect server side rendering",
+  "main": "lib/autossr.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/animesh10/electrode-auto-ssr.git"
+  },
+  "keywords": [
+    "electrode",
+    "serverSideRendering"
+  ],
+  "author": "Animesh Dutta",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/animesh10/electrode-auto-ssr/issues"
+  },
+  "homepage": "https://github.com/animesh10/electrode-auto-ssr#readme"
+}
